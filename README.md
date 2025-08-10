@@ -4,7 +4,7 @@
 
 [![Activity Graph](https://github-readme-activity-graph-g7ym0m6ly-ggentil11s-projects.vercel.app/graph?username=GGentil11&bg_color=0d1117&color=00BFFF&line=00BFFF&point=00BFFF&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **Sobre Mim**
+**🧑‍💻Sobre Mim**
 
 - 🎓 Estudante de Engenharia de Software (7º período)  
 - 📊 Analista de Dados com foco em Engenharia de Dados  
@@ -42,7 +42,7 @@
 </p>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
+<b>📊GitHub Stats </b>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-grx9ewuiv-ggentil11s-projects.vercel.app/api?username=GGentil11&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
