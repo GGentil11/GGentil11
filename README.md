@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=800080&textBg=false&fontColor=800080"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00BFFF&textBg=false&fontColor=00BFFF"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D100FF&size=35&center=true&vCenter=true&width=1000&lines=Olá+Dev,+sou+Gabriel+Gentil;Estudante+de+Engenharia+de+Software;Apaixonado+por+Ciência+e+Engenharia+de+Dados;Sempre+em+busca+de+novos+desafios;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá+Dev,+sou+Gabriel+Gentil;Estudante+de+Engenharia+de+Software;Apaixonado+por+Ciência+e+Engenharia+de+Dados;Sempre+em+busca+de+novos+desafios;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
-[![Activity Graph](https://github-readme-activity-graph-g7ym0m6ly-ggentil11s-projects.vercel.app/graph?username=GGentil11&bg_color=0d1117&color=800080&line=D100FF&point=D100FF&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://SEU-DOMINIO-ATIVIDADE.vercel.app/graph?username=GGentil11&bg_color=0d1117&color=00BFFF&line=00BFFF&point=00BFFF&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **Sobre Mim**
 
@@ -13,7 +13,6 @@
 - 🚀 Sempre estudando novas tecnologias e soluções em IA  
 - 🏆 Experiência em projetos reais de dados para tomada de decisão  
 
-<img src="https://github.com/MickaelGueds/MickaelGueds/blob/main/line-colors-ezgif.com-resize.gif"><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 
@@ -42,20 +41,19 @@
 
 </p>
 
-<img src="https://github.com/MickaelGueds/MickaelGueds/blob/main/line-colors-ezgif.com-resize.gif"><br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-git-master-ggentil11s-projects.vercel.app/api?username=GGentil11&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=D100FF&icon_color=D100FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-git-master-ggentil11s-projects.vercel.app/api/top-langs/?username=GGentil11&layout=compact&hide_border=true&title_color=D100FF&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://SEU-DOMINIO-STATS.vercel.app/api?username=GGentil11&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://SEU-DOMINIO-STATS.vercel.app/api/top-langs/?username=GGentil11&layout=compact&hide_border=true&title_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <div align="center">
   <h3><b>📍 Contador de Visitantes</b></h3>
 </div>
 <p align="center">   
-  <img src="https://profile-counter.glitch.me/GGentil11/count.svg" />  
+  <img src="https://profile-counter.glitch.me/GGentil11/count.svg" alt="Visitor Counter" />  
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=800080&textBg=false&fontColor=800080&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00BFFF&textBg=false&fontColor=00BFFF&section=footer"/>
