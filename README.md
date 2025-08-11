@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá+Dev,+sou+Gabriel+Gentil;Estudante+de+Engenharia+de+Software;Apaixonado+por+Ciência+e+Engenharia+de+Dados;Sempre+em+busca+de+novos+desafios;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
-[![Activity Graph](https://github-readme-activity-graph-g7ym0m6ly-ggentil11s-projects.vercel.app/graph?username=GGentil11&bg_color=0d1117&color=00BFFF&line=00BFFF&point=00BFFF&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph-g7ym0m6ly-ggentil11s-projects.vercel.app/graph?username=GGentil11&bg_color=0d1117&color=00BFFF&line=00BFFF&point=00BFFF&area=true&hide_border=true&cache_seconds=1800)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 **🧑‍💻Sobre Mim**
 
@@ -45,8 +45,8 @@
 <b>📊GitHub Stats </b>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-grx9ewuiv-ggentil11s-projects.vercel.app/api?username=GGentil11&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-grx9ewuiv-ggentil11s-projects.vercel.app/api/top-langs/?username=GGentil11&layout=compact&hide_border=true&title_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats-grx9ewuiv-ggentil11s-projects.vercel.app/api?username=GGentil11&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-grx9ewuiv-ggentil11s-projects.vercel.app/api/top-langs/?username=GGentil11&layout=compact&cache_seconds=1800&hide_border=true&title_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00BFFF&textBg=false&fontColor=00BFFF&section=footer"/>
