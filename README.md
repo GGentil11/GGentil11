@@ -6,7 +6,7 @@
 
 **🧑‍💻Sobre Mim**
 
-- 🎓 Estudante de Engenharia de Software (7º período)  
+- 🎓 Estudante de Engenharia de Software (8º período)  
 - 📊 Analista de Dados com foco em Engenharia de Dados  
 - 💻 Experiência em Python, SQL, ETL, Apache Airflow, Power BI e mais  
 - 📈 Apaixonado por análise, visualização e automação de dados  
